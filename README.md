@@ -4,7 +4,7 @@ Drs.
 
 ## What is this demo?
 
-Health-Care solution app.
+Health-Care solution app, this demo does not require knowledge in Axios
 
 ## What are the objectives?
 
